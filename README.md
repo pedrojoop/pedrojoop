@@ -1,6 +1,6 @@
 ### Olá eu sou Pedro 👋
 ## Estudante de ciências da computação🚀
-## Estudante da escola de programação ARNIA DEV
+## Estudante da escola de programação ARNIA DEV🚀
 ## Usuário ativo da plataforma de cursos Udemy 🚀
 ## Inglês, Português, Espanhol
 
