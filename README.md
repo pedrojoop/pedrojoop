@@ -1,6 +1,5 @@
 ### Olá eu sou Pedro 👋
-## Estudante de ciências da computação🚀
-## Estudante da escola de programação Rocketseat🚀
+## Estudante de Análise e desenvolvimento de sistemas🚀
 ## Usuário ativo da plataforma de cursos Udemy e Alura🚀
 ## Inglês, Português, Espanhol
 
