@@ -4,7 +4,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a width=55% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pedrojoop&theme=tokyonight-duo" alt="GitHub Streak" /></a>
-<img width=40% align="center" src="https://github-readme-stats-nu-five-72.vercel.app//api/top-langs/?username=pedrojoop&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-nu-five-72.vercel.app/api/top-langs/?username=pedrojoop&show_icons=true&theme=radical&layout=compact" />
 </div>
 
  &nbsp;
