@@ -2,6 +2,14 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/pedrojoop/pedrojoop/blob/main/Cabeçalho%20para%20twitter%20streamer%20neon%20moderno%20azul%20e%20roxo.png" />
 &nbsp;&nbsp;&nbsp;
 
+<div  align="center" style="margin-bottom:100px">
+<a width=55% align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pedrojoop&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+<img width=40% align="center" src="https://github-readme-stats-nu-five-72.vercel.app//api/top-langs/?username=pedrojoop&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+ &nbsp;
+ &nbsp;
+
 <p align="center">Hello, I'm Pedro, welcome to my github, I'm a java backend developer and these are my soft skills: Teamwork, leadership, autonomy, easy adaptation, communicator.</p>&nbsp;
 
  &nbsp;
